@@ -1,0 +1,11 @@
+body {
+    font-family: "Alata";
+}
+
+.main-heading {
+    margin-top: 20px;
+}
+
+#errorAlert {
+    display: none;
+}
